@@ -8,6 +8,7 @@
 - 👨‍👩‍👧‍👦 I like to meet a variety of people and be active.
 
 ![yejiCho's github stats](https://github-readme-stats.vercel.app/api?username=yejiCho&show_icons=true&theme=radical)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yejiCho&repo=github-readme-stats)](https://github.com/yejiCho/github-readme-stats)
 
 <div align=center>
 

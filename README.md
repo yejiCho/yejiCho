@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choyeji1591@gmail.com)](mailto:choyeji1591@gmail.com)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100012938438144)](https://www.facebook.com/profile.php?id=100012938438144)
 
-- 🌱 I’m currently learning Django,react etc..
+- 🌱 I’m currently learning SpringBoot,java etc..
 - 🐱‍🚀 Hard work and sincerity are my strengths.
 - 👨‍👩‍👧‍👦 I like to meet a variety of people and be active.
 
